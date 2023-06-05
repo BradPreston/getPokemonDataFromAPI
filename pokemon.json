@@ -1,0 +1,2032 @@
+[
+  {
+    "name": "bulbasaur",
+    "pokedex_number": 1,
+    "height": 28,
+    "weight": 15.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "shape": "quadruped",
+    "color": "green",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON."
+  },
+  {
+    "name": "ivysaur",
+    "pokedex_number": 2,
+    "height": 39,
+    "weight": 28.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "shape": "quadruped",
+    "color": "green",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+  },
+  {
+    "name": "venusaur",
+    "pokedex_number": 3,
+    "height": 79,
+    "weight": 220.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "shape": "quadruped",
+    "color": "green",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+  },
+  {
+    "name": "charmander",
+    "pokedex_number": 4,
+    "height": 24,
+    "weight": 18.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "shape": "upright",
+    "color": "red",
+    "types": [
+      "fire"
+    ],
+    "description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
+  },
+  {
+    "name": "charmeleon",
+    "pokedex_number": 5,
+    "height": 43,
+    "weight": 41.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "shape": "upright",
+    "color": "red",
+    "types": [
+      "fire"
+    ],
+    "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
+  },
+  {
+    "name": "charizard",
+    "pokedex_number": 6,
+    "height": 67,
+    "weight": 199.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "shape": "upright",
+    "color": "red",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+  },
+  {
+    "name": "squirtle",
+    "pokedex_number": 7,
+    "height": 20,
+    "weight": 19.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "shape": "upright",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
+  },
+  {
+    "name": "wartortle",
+    "pokedex_number": 8,
+    "height": 39,
+    "weight": 49.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "shape": "upright",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
+  },
+  {
+    "name": "blastoise",
+    "pokedex_number": 9,
+    "height": 63,
+    "weight": 188.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "shape": "upright",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles."
+  },
+  {
+    "name": "caterpie",
+    "pokedex_number": 10,
+    "height": 12,
+    "weight": 6.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "shape": "armor",
+    "color": "green",
+    "types": [
+      "bug"
+    ],
+    "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+  },
+  {
+    "name": "metapod",
+    "pokedex_number": 11,
+    "height": 28,
+    "weight": 21.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "shape": "squiggle",
+    "color": "green",
+    "types": [
+      "bug"
+    ],
+    "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+  },
+  {
+    "name": "butterfree",
+    "pokedex_number": 12,
+    "height": 43,
+    "weight": 70.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "shape": "bug-wings",
+    "color": "white",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
+  },
+  {
+    "name": "weedle",
+    "pokedex_number": 13,
+    "height": 12,
+    "weight": 7.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "shape": "armor",
+    "color": "brown",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
+  },
+  {
+    "name": "kakuna",
+    "pokedex_number": 14,
+    "height": 24,
+    "weight": 22.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "shape": "squiggle",
+    "color": "yellow",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators."
+  },
+  {
+    "name": "beedrill",
+    "pokedex_number": 15,
+    "height": 39,
+    "weight": 65,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "shape": "bug-wings",
+    "color": "yellow",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
+  },
+  {
+    "name": "pidgey",
+    "pokedex_number": 16,
+    "height": 12,
+    "weight": 4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "shape": "wings",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+  },
+  {
+    "name": "pidgeotto",
+    "pokedex_number": 17,
+    "height": 43,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "shape": "wings",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder."
+  },
+  {
+    "name": "pidgeot",
+    "pokedex_number": 18,
+    "height": 59,
+    "weight": 87.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "shape": "wings",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
+  },
+  {
+    "name": "rattata",
+    "pokedex_number": 19,
+    "height": 12,
+    "weight": 7.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "shape": "quadruped",
+    "color": "purple",
+    "types": [
+      "normal"
+    ],
+    "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+  },
+  {
+    "name": "raticate",
+    "pokedex_number": 20,
+    "height": 28,
+    "weight": 40.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "shape": "quadruped",
+    "color": "brown",
+    "types": [
+      "normal"
+    ],
+    "description": "It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off."
+  },
+  {
+    "name": "spearow",
+    "pokedex_number": 21,
+    "height": 12,
+    "weight": 4.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "shape": "wings",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+  },
+  {
+    "name": "fearow",
+    "pokedex_number": 22,
+    "height": 47,
+    "weight": 83.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "shape": "wings",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
+  },
+  {
+    "name": "ekans",
+    "pokedex_number": 23,
+    "height": 79,
+    "weight": 15.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "shape": "squiggle",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
+  },
+  {
+    "name": "arbok",
+    "pokedex_number": 24,
+    "height": 138,
+    "weight": 143.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "shape": "squiggle",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "It is rumored that the ferocious warning markings on its belly differ from area to area."
+  },
+  {
+    "name": "pikachu",
+    "pokedex_number": 25,
+    "height": 16,
+    "weight": 13.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "electric"
+    ],
+    "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms."
+  },
+  {
+    "name": "raichu",
+    "pokedex_number": 26,
+    "height": 31,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "shape": "upright",
+    "color": "yellow",
+    "types": [
+      "electric"
+    ],
+    "description": "Its long tail serves as a ground to protect itself from its own high voltage power."
+  },
+  {
+    "name": "sandshrew",
+    "pokedex_number": 27,
+    "height": 24,
+    "weight": 26.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "shape": "upright",
+    "color": "yellow",
+    "types": [
+      "ground"
+    ],
+    "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
+  },
+  {
+    "name": "sandslash",
+    "pokedex_number": 28,
+    "height": 39,
+    "weight": 65,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "shape": "upright",
+    "color": "yellow",
+    "types": [
+      "ground"
+    ],
+    "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
+  },
+  {
+    "name": "nidoran-f",
+    "pokedex_number": 29,
+    "height": 16,
+    "weight": 15.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "shape": "quadruped",
+    "color": "blue",
+    "types": [
+      "poison"
+    ],
+    "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+  },
+  {
+    "name": "nidorina",
+    "pokedex_number": 30,
+    "height": 31,
+    "weight": 44.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "shape": "quadruped",
+    "color": "blue",
+    "types": [
+      "poison"
+    ],
+    "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
+  },
+  {
+    "name": "nidoqueen",
+    "pokedex_number": 31,
+    "height": 51,
+    "weight": 132.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "shape": "upright",
+    "color": "blue",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
+  },
+  {
+    "name": "nidoran-m",
+    "pokedex_number": 32,
+    "height": 20,
+    "weight": 19.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "shape": "quadruped",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
+  },
+  {
+    "name": "nidorino",
+    "pokedex_number": 33,
+    "height": 35,
+    "weight": 43,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "shape": "quadruped",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom."
+  },
+  {
+    "name": "nidoking",
+    "pokedex_number": 34,
+    "height": 55,
+    "weight": 136.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "shape": "upright",
+    "color": "purple",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
+  },
+  {
+    "name": "clefairy",
+    "pokedex_number": 35,
+    "height": 24,
+    "weight": 16.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "shape": "upright",
+    "color": "pink",
+    "types": [
+      "fairy"
+    ],
+    "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
+  },
+  {
+    "name": "clefable",
+    "pokedex_number": 36,
+    "height": 51,
+    "weight": 88.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "shape": "upright",
+    "color": "pink",
+    "types": [
+      "fairy"
+    ],
+    "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people."
+  },
+  {
+    "name": "vulpix",
+    "pokedex_number": 37,
+    "height": 24,
+    "weight": 21.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "shape": "quadruped",
+    "color": "brown",
+    "types": [
+      "fire"
+    ],
+    "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
+  },
+  {
+    "name": "ninetales",
+    "pokedex_number": 38,
+    "height": 43,
+    "weight": 43.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "fire"
+    ],
+    "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
+  },
+  {
+    "name": "jigglypuff",
+    "pokedex_number": 39,
+    "height": 20,
+    "weight": 12.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "shape": "humanoid",
+    "color": "pink",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+  },
+  {
+    "name": "wigglytuff",
+    "pokedex_number": 40,
+    "height": 39,
+    "weight": 26.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "shape": "humanoid",
+    "color": "pink",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+  },
+  {
+    "name": "zubat",
+    "pokedex_number": 41,
+    "height": 31,
+    "weight": 16.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "shape": "wings",
+    "color": "purple",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
+  },
+  {
+    "name": "golbat",
+    "pokedex_number": 42,
+    "height": 63,
+    "weight": 121.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "shape": "wings",
+    "color": "purple",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
+  },
+  {
+    "name": "oddish",
+    "pokedex_number": 43,
+    "height": 20,
+    "weight": 11.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "shape": "legs",
+    "color": "blue",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+  },
+  {
+    "name": "gloom",
+    "pokedex_number": 44,
+    "height": 31,
+    "weight": 19,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "shape": "humanoid",
+    "color": "blue",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
+  },
+  {
+    "name": "vileplume",
+    "pokedex_number": 45,
+    "height": 47,
+    "weight": 41,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "shape": "humanoid",
+    "color": "red",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+  },
+  {
+    "name": "paras",
+    "pokedex_number": 46,
+    "height": 12,
+    "weight": 11.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "shape": "armor",
+    "color": "red",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host."
+  },
+  {
+    "name": "parasect",
+    "pokedex_number": 47,
+    "height": 39,
+    "weight": 65,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "shape": "armor",
+    "color": "red",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
+  },
+  {
+    "name": "venonat",
+    "pokedex_number": 48,
+    "height": 39,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "shape": "humanoid",
+    "color": "purple",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
+  },
+  {
+    "name": "venomoth",
+    "pokedex_number": 49,
+    "height": 59,
+    "weight": 27.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "shape": "bug-wings",
+    "color": "purple",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
+  },
+  {
+    "name": "diglett",
+    "pokedex_number": 50,
+    "height": 8,
+    "weight": 1.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "shape": "blob",
+    "color": "brown",
+    "types": [
+      "ground"
+    ],
+    "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
+  },
+  {
+    "name": "dugtrio",
+    "pokedex_number": 51,
+    "height": 28,
+    "weight": 73.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "shape": "heads",
+    "color": "brown",
+    "types": [
+      "ground"
+    ],
+    "description": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+  },
+  {
+    "name": "meowth",
+    "pokedex_number": 52,
+    "height": 16,
+    "weight": 9.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "normal"
+    ],
+    "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
+  },
+  {
+    "name": "persian",
+    "pokedex_number": 53,
+    "height": 39,
+    "weight": 70.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "normal"
+    ],
+    "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+  },
+  {
+    "name": "psyduck",
+    "pokedex_number": 54,
+    "height": 31,
+    "weight": 43.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "shape": "upright",
+    "color": "yellow",
+    "types": [
+      "water"
+    ],
+    "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers."
+  },
+  {
+    "name": "golduck",
+    "pokedex_number": 55,
+    "height": 67,
+    "weight": 168.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "shape": "upright",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
+  },
+  {
+    "name": "mankey",
+    "pokedex_number": 56,
+    "height": 20,
+    "weight": 61.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "fighting"
+    ],
+    "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant."
+  },
+  {
+    "name": "primeape",
+    "pokedex_number": 57,
+    "height": 39,
+    "weight": 70.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "fighting"
+    ],
+    "description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught."
+  },
+  {
+    "name": "growlithe",
+    "pokedex_number": 58,
+    "height": 28,
+    "weight": 41.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "shape": "quadruped",
+    "color": "brown",
+    "types": [
+      "fire"
+    ],
+    "description": "Very protective of its territory. It will bark and bite to repel intruders from its space."
+  },
+  {
+    "name": "arcanine",
+    "pokedex_number": 59,
+    "height": 75,
+    "weight": 341.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "shape": "quadruped",
+    "color": "brown",
+    "types": [
+      "fire"
+    ],
+    "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings."
+  },
+  {
+    "name": "poliwag",
+    "pokedex_number": 60,
+    "height": 24,
+    "weight": 27.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "shape": "legs",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
+  },
+  {
+    "name": "poliwhirl",
+    "pokedex_number": 61,
+    "height": 39,
+    "weight": 44.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "shape": "humanoid",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
+  },
+  {
+    "name": "poliwrath",
+    "pokedex_number": 62,
+    "height": 51,
+    "weight": 119.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "shape": "humanoid",
+    "color": "blue",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "description": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
+  },
+  {
+    "name": "abra",
+    "pokedex_number": 63,
+    "height": 35,
+    "weight": 43,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "psychic"
+    ],
+    "description": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety."
+  },
+  {
+    "name": "kadabra",
+    "pokedex_number": 64,
+    "height": 51,
+    "weight": 124.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "psychic"
+    ],
+    "description": "It emits special alpha waves from its body that induce headaches just by being close by."
+  },
+  {
+    "name": "alakazam",
+    "pokedex_number": 65,
+    "height": 59,
+    "weight": 105.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "shape": "humanoid",
+    "color": "brown",
+    "types": [
+      "psychic"
+    ],
+    "description": "Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000."
+  },
+  {
+    "name": "machop",
+    "pokedex_number": 66,
+    "height": 31,
+    "weight": 43,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "shape": "upright",
+    "color": "gray",
+    "types": [
+      "fighting"
+    ],
+    "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+  },
+  {
+    "name": "machoke",
+    "pokedex_number": 67,
+    "height": 59,
+    "weight": 155.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "shape": "humanoid",
+    "color": "gray",
+    "types": [
+      "fighting"
+    ],
+    "description": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions."
+  },
+  {
+    "name": "machamp",
+    "pokedex_number": 68,
+    "height": 63,
+    "weight": 286.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "shape": "humanoid",
+    "color": "gray",
+    "types": [
+      "fighting"
+    ],
+    "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
+  },
+  {
+    "name": "bellsprout",
+    "pokedex_number": 69,
+    "height": 28,
+    "weight": 8.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "shape": "humanoid",
+    "color": "green",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture."
+  },
+  {
+    "name": "weepinbell",
+    "pokedex_number": 70,
+    "height": 39,
+    "weight": 14.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "shape": "blob",
+    "color": "green",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
+  },
+  {
+    "name": "victreebel",
+    "pokedex_number": 71,
+    "height": 67,
+    "weight": 34.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "shape": "blob",
+    "color": "green",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+  },
+  {
+    "name": "tentacool",
+    "pokedex_number": 72,
+    "height": 35,
+    "weight": 100.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "shape": "tentacles",
+    "color": "blue",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
+  },
+  {
+    "name": "tentacruel",
+    "pokedex_number": 73,
+    "height": 63,
+    "weight": 121.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "shape": "tentacles",
+    "color": "blue",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
+  },
+  {
+    "name": "geodude",
+    "pokedex_number": 74,
+    "height": 16,
+    "weight": 44.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "shape": "arms",
+    "color": "brown",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
+  },
+  {
+    "name": "graveler",
+    "pokedex_number": 75,
+    "height": 39,
+    "weight": 231.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "shape": "humanoid",
+    "color": "brown",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+  },
+  {
+    "name": "golem",
+    "pokedex_number": 76,
+    "height": 55,
+    "weight": 661.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "shape": "humanoid",
+    "color": "brown",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
+  },
+  {
+    "name": "ponyta",
+    "pokedex_number": 77,
+    "height": 39,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "fire"
+    ],
+    "description": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
+  },
+  {
+    "name": "rapidash",
+    "pokedex_number": 78,
+    "height": 67,
+    "weight": 209.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "fire"
+    ],
+    "description": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+  },
+  {
+    "name": "slowpoke",
+    "pokedex_number": 79,
+    "height": 47,
+    "weight": 79.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "shape": "quadruped",
+    "color": "pink",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "description": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
+  },
+  {
+    "name": "slowbro",
+    "pokedex_number": 80,
+    "height": 63,
+    "weight": 173.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "shape": "upright",
+    "color": "pink",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "description": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps."
+  },
+  {
+    "name": "magnemite",
+    "pokedex_number": 81,
+    "height": 12,
+    "weight": 13.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "shape": "arms",
+    "color": "gray",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "description": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
+  },
+  {
+    "name": "magneton",
+    "pokedex_number": 82,
+    "height": 39,
+    "weight": 132.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "shape": "heads",
+    "color": "gray",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
+  },
+  {
+    "name": "farfetchd",
+    "pokedex_number": 83,
+    "height": 31,
+    "weight": 33.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "shape": "wings",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "The sprig of green onions it holds is its weapon. It is used much like a metal sword."
+  },
+  {
+    "name": "doduo",
+    "pokedex_number": 84,
+    "height": 55,
+    "weight": 86.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "shape": "legs",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
+  },
+  {
+    "name": "dodrio",
+    "pokedex_number": 85,
+    "height": 71,
+    "weight": 187.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "shape": "legs",
+    "color": "brown",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "description": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
+  },
+  {
+    "name": "seel",
+    "pokedex_number": 86,
+    "height": 43,
+    "weight": 198.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "shape": "fish",
+    "color": "white",
+    "types": [
+      "water"
+    ],
+    "description": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
+  },
+  {
+    "name": "dewgong",
+    "pokedex_number": 87,
+    "height": 67,
+    "weight": 264.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "shape": "fish",
+    "color": "white",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
+  },
+  {
+    "name": "grimer",
+    "pokedex_number": 88,
+    "height": 35,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "shape": "arms",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories."
+  },
+  {
+    "name": "muk",
+    "pokedex_number": 89,
+    "height": 47,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "shape": "arms",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+  },
+  {
+    "name": "shellder",
+    "pokedex_number": 90,
+    "height": 12,
+    "weight": 8.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "shape": "ball",
+    "color": "purple",
+    "types": [
+      "water"
+    ],
+    "description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+  },
+  {
+    "name": "cloyster",
+    "pokedex_number": 91,
+    "height": 59,
+    "weight": 292.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "shape": "ball",
+    "color": "purple",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "description": "When attacked, it launches its horns in quick volleys. Its innards have never been seen."
+  },
+  {
+    "name": "gastly",
+    "pokedex_number": 92,
+    "height": 51,
+    "weight": 0.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "shape": "ball",
+    "color": "purple",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice."
+  },
+  {
+    "name": "haunter",
+    "pokedex_number": 93,
+    "height": 63,
+    "weight": 0.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "shape": "arms",
+    "color": "purple",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension."
+  },
+  {
+    "name": "gengar",
+    "pokedex_number": 94,
+    "height": 59,
+    "weight": 89.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "shape": "upright",
+    "color": "purple",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "description": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright."
+  },
+  {
+    "name": "onix",
+    "pokedex_number": 95,
+    "height": 346,
+    "weight": 463.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "shape": "squiggle",
+    "color": "gray",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "description": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black."
+  },
+  {
+    "name": "drowzee",
+    "pokedex_number": 96,
+    "height": 39,
+    "weight": 71.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "shape": "humanoid",
+    "color": "yellow",
+    "types": [
+      "psychic"
+    ],
+    "description": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
+  },
+  {
+    "name": "hypno",
+    "pokedex_number": 97,
+    "height": 63,
+    "weight": 166.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "shape": "humanoid",
+    "color": "yellow",
+    "types": [
+      "psychic"
+    ],
+    "description": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
+  },
+  {
+    "name": "krabby",
+    "pokedex_number": 98,
+    "height": 16,
+    "weight": 14.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "shape": "armor",
+    "color": "red",
+    "types": [
+      "water"
+    ],
+    "description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways."
+  },
+  {
+    "name": "kingler",
+    "pokedex_number": 99,
+    "height": 51,
+    "weight": 132.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "shape": "armor",
+    "color": "red",
+    "types": [
+      "water"
+    ],
+    "description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
+  },
+  {
+    "name": "voltorb",
+    "pokedex_number": 100,
+    "height": 20,
+    "weight": 22.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "shape": "ball",
+    "color": "red",
+    "types": [
+      "electric"
+    ],
+    "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people."
+  },
+  {
+    "name": "electrode",
+    "pokedex_number": 101,
+    "height": 47,
+    "weight": 146.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "shape": "ball",
+    "color": "red",
+    "types": [
+      "electric"
+    ],
+    "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
+  },
+  {
+    "name": "exeggcute",
+    "pokedex_number": 102,
+    "height": 16,
+    "weight": 5.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "shape": "heads",
+    "color": "pink",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+  },
+  {
+    "name": "exeggutor",
+    "pokedex_number": 103,
+    "height": 79,
+    "weight": 264.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "shape": "legs",
+    "color": "yellow",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
+  },
+  {
+    "name": "cubone",
+    "pokedex_number": 104,
+    "height": 16,
+    "weight": 14.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "ground"
+    ],
+    "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face."
+  },
+  {
+    "name": "marowak",
+    "pokedex_number": 105,
+    "height": 39,
+    "weight": 99.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "ground"
+    ],
+    "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
+  },
+  {
+    "name": "hitmonlee",
+    "pokedex_number": 106,
+    "height": 59,
+    "weight": 109.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "shape": "humanoid",
+    "color": "brown",
+    "types": [
+      "fighting"
+    ],
+    "description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides."
+  },
+  {
+    "name": "hitmonchan",
+    "pokedex_number": 107,
+    "height": 55,
+    "weight": 110.7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "shape": "humanoid",
+    "color": "brown",
+    "types": [
+      "fighting"
+    ],
+    "description": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
+  },
+  {
+    "name": "lickitung",
+    "pokedex_number": 108,
+    "height": 47,
+    "weight": 144.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "shape": "upright",
+    "color": "pink",
+    "types": [
+      "normal"
+    ],
+    "description": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
+  },
+  {
+    "name": "koffing",
+    "pokedex_number": 109,
+    "height": 24,
+    "weight": 2.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "shape": "ball",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+  },
+  {
+    "name": "weezing",
+    "pokedex_number": 110,
+    "height": 47,
+    "weight": 20.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "shape": "heads",
+    "color": "purple",
+    "types": [
+      "poison"
+    ],
+    "description": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years."
+  },
+  {
+    "name": "rhyhorn",
+    "pokedex_number": 111,
+    "height": 39,
+    "weight": 253.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "shape": "quadruped",
+    "color": "gray",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
+  },
+  {
+    "name": "rhydon",
+    "pokedex_number": 112,
+    "height": 75,
+    "weight": 264.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "shape": "upright",
+    "color": "gray",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
+  },
+  {
+    "name": "chansey",
+    "pokedex_number": 113,
+    "height": 43,
+    "weight": 76.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "shape": "upright",
+    "color": "pink",
+    "types": [
+      "normal"
+    ],
+    "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it."
+  },
+  {
+    "name": "tangela",
+    "pokedex_number": 114,
+    "height": 39,
+    "weight": 77.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "shape": "legs",
+    "color": "blue",
+    "types": [
+      "grass"
+    ],
+    "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks."
+  },
+  {
+    "name": "kangaskhan",
+    "pokedex_number": 115,
+    "height": 87,
+    "weight": 176.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "normal"
+    ],
+    "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old."
+  },
+  {
+    "name": "horsea",
+    "pokedex_number": 116,
+    "height": 16,
+    "weight": 17.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "shape": "blob",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+  },
+  {
+    "name": "seadra",
+    "pokedex_number": 117,
+    "height": 47,
+    "weight": 55.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "shape": "blob",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
+  },
+  {
+    "name": "goldeen",
+    "pokedex_number": 118,
+    "height": 24,
+    "weight": 33.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "shape": "fish",
+    "color": "red",
+    "types": [
+      "water"
+    ],
+    "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
+  },
+  {
+    "name": "seaking",
+    "pokedex_number": 119,
+    "height": 51,
+    "weight": 86,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "shape": "fish",
+    "color": "red",
+    "types": [
+      "water"
+    ],
+    "description": "In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks."
+  },
+  {
+    "name": "staryu",
+    "pokedex_number": 120,
+    "height": 31,
+    "weight": 76.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "shape": "blob",
+    "color": "brown",
+    "types": [
+      "water"
+    ],
+    "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle."
+  },
+  {
+    "name": "starmie",
+    "pokedex_number": 121,
+    "height": 43,
+    "weight": 176.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "shape": "blob",
+    "color": "purple",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+  },
+  {
+    "name": "mr-mime",
+    "pokedex_number": 122,
+    "height": 51,
+    "weight": 120.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "shape": "humanoid",
+    "color": "pink",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "description": "If interrupted while it is miming, it will slap around the offender with its broad hands."
+  },
+  {
+    "name": "scyther",
+    "pokedex_number": 123,
+    "height": 59,
+    "weight": 123.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "shape": "bug-wings",
+    "color": "green",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "description": "With ninja-like agility and speed, it can create the illusion that there is more than one."
+  },
+  {
+    "name": "jynx",
+    "pokedex_number": 124,
+    "height": 55,
+    "weight": 89.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "shape": "humanoid",
+    "color": "red",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+  },
+  {
+    "name": "electabuzz",
+    "pokedex_number": 125,
+    "height": 43,
+    "weight": 66.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "shape": "upright",
+    "color": "yellow",
+    "types": [
+      "electric"
+    ],
+    "description": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+  },
+  {
+    "name": "magmar",
+    "pokedex_number": 126,
+    "height": 51,
+    "weight": 98.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "shape": "upright",
+    "color": "red",
+    "types": [
+      "fire"
+    ],
+    "description": "Its body always burns with an orange glow that enables it to hide perfectly among flames."
+  },
+  {
+    "name": "pinsir",
+    "pokedex_number": 127,
+    "height": 59,
+    "weight": 121.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "shape": "humanoid",
+    "color": "brown",
+    "types": [
+      "bug"
+    ],
+    "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard."
+  },
+  {
+    "name": "tauros",
+    "pokedex_number": 128,
+    "height": 55,
+    "weight": 194.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "shape": "quadruped",
+    "color": "brown",
+    "types": [
+      "normal"
+    ],
+    "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
+  },
+  {
+    "name": "magikarp",
+    "pokedex_number": 129,
+    "height": 35,
+    "weight": 22.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "shape": "fish",
+    "color": "red",
+    "types": [
+      "water"
+    ],
+    "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+  },
+  {
+    "name": "gyarados",
+    "pokedex_number": 130,
+    "height": 256,
+    "weight": 518.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "shape": "squiggle",
+    "color": "blue",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+  },
+  {
+    "name": "lapras",
+    "pokedex_number": 131,
+    "height": 98,
+    "weight": 485.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "shape": "fish",
+    "color": "blue",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water."
+  },
+  {
+    "name": "ditto",
+    "pokedex_number": 132,
+    "height": 12,
+    "weight": 8.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "shape": "ball",
+    "color": "purple",
+    "types": [
+      "normal"
+    ],
+    "description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy."
+  },
+  {
+    "name": "eevee",
+    "pokedex_number": 133,
+    "height": 12,
+    "weight": 14.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "shape": "quadruped",
+    "color": "brown",
+    "types": [
+      "normal"
+    ],
+    "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs."
+  },
+  {
+    "name": "vaporeon",
+    "pokedex_number": 134,
+    "height": 39,
+    "weight": 63.9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "shape": "quadruped",
+    "color": "blue",
+    "types": [
+      "water"
+    ],
+    "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
+  },
+  {
+    "name": "jolteon",
+    "pokedex_number": 135,
+    "height": 31,
+    "weight": 54,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "shape": "quadruped",
+    "color": "yellow",
+    "types": [
+      "electric"
+    ],
+    "description": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts."
+  },
+  {
+    "name": "flareon",
+    "pokedex_number": 136,
+    "height": 35,
+    "weight": 55.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "shape": "quadruped",
+    "color": "red",
+    "types": [
+      "fire"
+    ],
+    "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
+  },
+  {
+    "name": "porygon",
+    "pokedex_number": 137,
+    "height": 31,
+    "weight": 80.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "shape": "legs",
+    "color": "pink",
+    "types": [
+      "normal"
+    ],
+    "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace."
+  },
+  {
+    "name": "omanyte",
+    "pokedex_number": 138,
+    "height": 16,
+    "weight": 16.5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "shape": "tentacles",
+    "color": "blue",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "Although long extinct, in rare cases, it can be genetically resurrected from fossils."
+  },
+  {
+    "name": "omastar",
+    "pokedex_number": 139,
+    "height": 39,
+    "weight": 77.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "shape": "tentacles",
+    "color": "blue",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey."
+  },
+  {
+    "name": "kabuto",
+    "pokedex_number": 140,
+    "height": 20,
+    "weight": 25.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "shape": "armor",
+    "color": "brown",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago."
+  },
+  {
+    "name": "kabutops",
+    "pokedex_number": 141,
+    "height": 51,
+    "weight": 89.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids."
+  },
+  {
+    "name": "aerodactyl",
+    "pokedex_number": 142,
+    "height": 71,
+    "weight": 130.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "shape": "wings",
+    "color": "purple",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs."
+  },
+  {
+    "name": "snorlax",
+    "pokedex_number": 143,
+    "height": 83,
+    "weight": 1014.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "shape": "humanoid",
+    "color": "black",
+    "types": [
+      "normal"
+    ],
+    "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
+  },
+  {
+    "name": "articuno",
+    "pokedex_number": 144,
+    "height": 67,
+    "weight": 122.2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "shape": "wings",
+    "color": "blue",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "description": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains."
+  },
+  {
+    "name": "zapdos",
+    "pokedex_number": 145,
+    "height": 63,
+    "weight": 116,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "shape": "wings",
+    "color": "yellow",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+  },
+  {
+    "name": "moltres",
+    "pokedex_number": 146,
+    "height": 79,
+    "weight": 132.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "shape": "wings",
+    "color": "yellow",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "description": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
+  },
+  {
+    "name": "dratini",
+    "pokedex_number": 147,
+    "height": 71,
+    "weight": 7.3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "shape": "squiggle",
+    "color": "blue",
+    "types": [
+      "dragon"
+    ],
+    "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater."
+  },
+  {
+    "name": "dragonair",
+    "pokedex_number": 148,
+    "height": 157,
+    "weight": 36.4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "shape": "squiggle",
+    "color": "blue",
+    "types": [
+      "dragon"
+    ],
+    "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions."
+  },
+  {
+    "name": "dragonite",
+    "pokedex_number": 149,
+    "height": 87,
+    "weight": 463.1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "shape": "upright",
+    "color": "brown",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans."
+  },
+  {
+    "name": "mewtwo",
+    "pokedex_number": 150,
+    "height": 79,
+    "weight": 269,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "shape": "upright",
+    "color": "purple",
+    "types": [
+      "psychic"
+    ],
+    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
+  },
+  {
+    "name": "mew",
+    "pokedex_number": 151,
+    "height": 16,
+    "weight": 8.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "shape": "upright",
+    "color": "pink",
+    "types": [
+      "psychic"
+    ],
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
+  }
+]
